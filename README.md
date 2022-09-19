@@ -1,2 +1,3 @@
 # primeiro_nlw
-primeira experiência na nlw
+
+Projeto desenvolvido junto a Next Level Week da Rocketseat.
